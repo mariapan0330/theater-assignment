@@ -23,7 +23,19 @@ body {
 }
 
 .footer {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: rgb(66, 66, 66);
+    color: white;
+}
 
+.footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer a:hover {
+    color:black;
 }
 
 .hero-banner h1 {
